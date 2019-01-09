@@ -1,0 +1,54 @@
+{
+    "name": "blackbird/library-phone-number",
+    "description": "Phone number library utilities for Magento 2.",
+    "keywords": [
+        "php",
+        "magento",
+        "magento2",
+        "phone",
+        "phone number",
+        "library",
+        "lib"
+    ],
+    "require": {
+        "brick/phonenumber": "^0.2",
+        "magento/framework": ">=100.0",
+        "magento/module-directory": ">=100.0",
+        "magento/module-store": ">=100.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "type": "magento2-library",
+    "version": "0.1.0",
+    "license": [
+        "MIT"
+    ],
+    "homepage": "https://github.com/blackbird-agency/magento-2-phone-number-lib",
+    "authors": [
+        {
+            "name": "Thomas Klein",
+            "email": "thomas@bird.eu",
+            "homepage": "https://www.linkedin.com/in/thomas-klein/",
+            "role": "lead"
+        },
+        {
+            "name": "Blackbird Team",
+            "email": "hello@bird.eu",
+            "homepage": "https://black.bird.eu/",
+            "role": "contributor"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/blackbird-agency/magento-2-phone-number-lib",
+        "issues": "https://github.com/blackbird-agency/magento-2-phone-number-lib/issues"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Blackbird\\PhoneNumberLib\\": ""
+        }
+    }
+}
