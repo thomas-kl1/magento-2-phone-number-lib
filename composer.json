@@ -11,16 +11,16 @@
         "lib"
     ],
     "require": {
-        "brick/phonenumber": "^0.2",
-        "magento/framework": ">=100.0",
-        "magento/module-directory": ">=100.0",
-        "magento/module-store": ">=100.0"
+        "brick/phonenumber": "*",
+        "magento/framework": "*",
+        "magento/module-directory": "*",
+        "magento/module-store": "*"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master"
     },
     "type": "magento2-library",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "license": [
         "MIT"
     ],

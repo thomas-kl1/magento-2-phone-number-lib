@@ -18,8 +18,8 @@ composer require blackbird/library-phone-number
 
 ## Support
 
-- If you have any issue with this code, feel free to [open an issue](https://github.com/blackbird-agency/magento-2-orange-sms-notification/issues/new).  
-- If you wan to contribute to this project, feel free to [create a pull request](https://github.com/blackbird-agency/magento-2-orange-sms-notification/compare).
+- If you have any issue with this code, feel free to [open an issue](https://github.com/blackbird-agency/magento-2-phone-number-lib/issues/new).  
+- If you want to contribute to this project, feel free to [create a pull request](https://github.com/blackbird-agency/magento-2-phone-number-lib/compare).
 
 ## Contact
 
@@ -30,7 +30,7 @@ For further information, contact us:
 
 ## Authors
 
-- **Thomas Klein** - *Initial work* - [It's me!](https://github.com/thomas-blackbird)
+- **Thomas Klein** - *Maintainer* - [It's me!](https://github.com/thomas-blackbird)
 - **Blackbird Team** - *Contributor* - [They're awesome!](https://github.com/blackbird-agency)
 
 ## Licence
