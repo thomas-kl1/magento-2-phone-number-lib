@@ -12,7 +12,7 @@
  * @copyright   Copyright (c) Blackbird (https://black.bird.eu)
  * @author      Blackbird Team
  * @license     MIT
- * @support     https://github.com/blackbird-agency/magento-2-catalog-default-qty/issues/new
+ * @support     https://github.com/blackbird-agency/magento-2-phone-number-lib/issues/new
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
